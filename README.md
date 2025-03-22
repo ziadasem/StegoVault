@@ -1,5 +1,4 @@
 # 🖼️ StegoVault - Hide & Extract Text in Images with Password
-Note: this document is written with the help of AI.
 
 ## 🔹 Overview
 This project allows you to hide and extract text in images using steganography techniques. You can embed text from a PDF file or manual input into an image, and later extract it using a **secret key**.
@@ -112,7 +111,7 @@ This project, including the code and documentation, was developed with the assis
 
 Feel free to contribute by submitting issues or pull requests! 🚀
 
-🔹 License
+## 🔹 License
 
 MIT License © 2025
 
